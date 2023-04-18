@@ -1,11 +1,1 @@
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-  ><url>
-      <loc>https://wuweiz.github/categories/</loc><lastmod>2023-04-18T10:10:18&#43;08:00</lastmod></url><url>
-      <loc>https://wuweiz.github/tags/draft/</loc><lastmod>2023-04-18T10:10:18&#43;08:00</lastmod></url><url>
-      <loc>https://wuweiz.github/categories/draft/</loc><lastmod>2023-04-18T10:10:18&#43;08:00</lastmod></url><url>
-      <loc>https://wuweiz.github/posts/first_post/</loc><lastmod>2023-04-18T10:10:18&#43;08:00</lastmod></url><url>
-      <loc>https://wuweiz.github/posts/</loc><lastmod>2023-04-18T10:10:18&#43;08:00</lastmod></url><url>
-      <loc>https://wuweiz.github/tags/</loc><lastmod>2023-04-18T10:10:18&#43;08:00</lastmod></url><url>
-      <loc>https://wuweiz.github/</loc><lastmod>2023-04-18T10:10:18&#43;08:00</lastmod></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://wuweiz.github/categories/</loc></url><url><loc>https://wuweiz.github/tags/</loc></url><url><loc>https://wuweiz.github/</loc></url></urlset>
